@@ -1,11 +1,11 @@
 # Vacatures overzicht
 
-_Laatst gegenereerd: 03/10/2026 om 08:08_
+_Laatst gegenereerd: 04/10/2026 om 08:10_
 
 
 ## Nils
 
-**Bijgewerkt:** 03/10/2026 om 06:08 — **38 vacatures**
+**Bijgewerkt:** 04/10/2026 om 06:09 — **37 vacatures**
 
 | Titel | Bedrijf | Locatie | Bron | Link |
 |---|---|---|---|---|
@@ -17,44 +17,44 @@ _Laatst gegenereerd: 03/10/2026 om 08:08_
 | Field Service Engineer | Grafton Recruitment | Leuven en omgeving Wees een van de eerst… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/field-service-engineer-at-grafton-recruitment-4472848298) |
 | Field Service Engineer PQ | Eaton | Dilbeek, Vlaanderen, België Wees een van… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/field-service-engineer-pq-at-eaton-4432700312) |
 | Field Service Technician Power | Schneider Electric | Ukkel, Brussels Hoofdstedelijk Gewest, B… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/field-service-technician-power-at-schneider-electric-4434651711) |
-| Field Service Technician - Solutions techniques industrielle… | Michael Page | Brussel, Brussels Hoofdstedelijk Gewest,… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/field-service-technician-solutions-techniques-industrielles-at-michael-page-4473045498) |
-| Field Service Technician | Flowserve Corporation | Groot-Bijgaarden, Vlaanderen, België Act… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/field-service-technician-at-flowserve-corporation-4454512441) |
 | Service Desk Engineer | TCrew | Brussel, Brussels Hoofdstedelijk Gewest,… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/service-desk-engineer-at-tcrew-4474720654) |
 | L1 Servicedesk Engineer | In4Matic | Gent, Vlaanderen, België Wees een van de… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/l1-servicedesk-engineer-at-in4matic-4472610077) |
-| IT Support Engineer On-site/Mobile | Computacenter | Zaventem, Vlaanderen, België Actief aan… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/it-support-engineer-on-site-mobile-at-computacenter-4310849191) |
-| Helpdesk Engineer Software Applications | Movu Robotics | Lokeren, Vlaanderen, België Actief aan h… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/helpdesk-engineer-software-applications-at-movu-robotics-4468602619) |
-| Service Desk & Application Support Consultant - EU Instituti… | Ayesa Digital | Brussels Hoofdstedelijk Gewest, België 2… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/service-desk-application-support-consultant-eu-institutions-at-ayesa-digital-4472144297) |
-| Assistant Technical Support Engineer - Diagnostics Team | Volvo Trucks | Gent, Vlaanderen, België Actief aan het… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/assistant-technical-support-engineer-diagnostics-team-at-volvo-trucks-4464363047) |
+| IT Support Engineer On-site/Mobile | Computacenter | Zaventem, Vlaanderen, België 4 dagen gel… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/it-support-engineer-on-site-mobile-at-computacenter-4310849191) |
+| Helpdesk Engineer Software Applications | Movu Robotics | Lokeren, Vlaanderen, België 1 dag gelede… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/helpdesk-engineer-software-applications-at-movu-robotics-4468602619) |
+| Service Desk & Application Support Consultant - EU Instituti… | Ayesa Digital | Brussels Hoofdstedelijk Gewest, België 3… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/service-desk-application-support-consultant-eu-institutions-at-ayesa-digital-4472144297) |
+| Assistant Technical Support Engineer - Diagnostics Team | Volvo Trucks | Gent, Vlaanderen, België 4 dagen geleden | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/assistant-technical-support-engineer-diagnostics-team-at-volvo-trucks-4464363047) |
 | IT Support Engineer | team.blue | Gent, Vlaanderen, België Wees een van de… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/it-support-engineer-at-team-blue-4475020990) |
 | L2 Servicedesk Engineer | In4Matic | Gent, Vlaanderen, België Wees een van de… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/l2-servicedesk-engineer-at-in4matic-4472199517) |
-| Eng- SW Tech Support II | Quantum | Gent en omgeving 2 dagen geleden | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/eng-sw-tech-support-ii-at-quantum-4464930414) |
+| Eng- SW Tech Support II | Quantum | Gent en omgeving 3 dagen geleden | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/eng-sw-tech-support-ii-at-quantum-4464930414) |
 | Field Service Engineer | Michael Page | Bruxelles, BE | Talent.com | [Bekijk](https://be.talent.com/view?id=637868103617283877) |
 | Senior Field Service Engineer - Benelux | Sungrow - EMEA | Brussels, Anderlecht, BE | Talent.com | [Bekijk](https://be.talent.com/view?id=616127407106107241) |
-| Service Engineer met privéwagen | LGA Engineering | 2880 Bornem, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=639810746462044454) |
 | Project Engineer - Service | EQUANS | gent, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=639810747661094639) |
-| Field Service Engineer | Manpower | Halle, Flanders, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=563380750049747285) |
 | IT Service Delivery Engineer | Speos Belgium NV | Anderlecht, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=590980679340271790) |
 | Maintenace Field Engineer | Importex | gent, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=622149549603038640) |
+| Field Service Engineer - Industriële Apparatuur | Manpower | Aalst, Flanders, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=534434701586925542) |
 | Service Engineer | Start People Office Leuven | BRUSSEL, Brussels Hoofdstedelijk Gewest,… | Talent.com | [Bekijk](https://be.talent.com/view?id=630113558142913802) |
 | Security Field Engineer | Xtra Interim Kortenberg | brussel, 1000 | Talent.com | [Bekijk](https://be.talent.com/view?id=617246144260739749) |
-| Field Service Technician | Michael Page | Brussels City, BE | Talent.com | [Bekijk](https://be.talent.com/view?id=637868122769131301) |
-| Procurement and Contracts Specialist (Complex ICT Acquisitio… | WLG | Brussels, Brussels, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=638820207066941075) |
+| Field Service Technician | Michael Page | Bruxelles, BE | Talent.com | [Bekijk](https://be.talent.com/view?id=637868109158024997) |
+| ICT Support Engineer (2nd/3rd Line) | Anoniem | gent, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=640012881329000140) |
+| JR. SUPPORT ENGINEER | Salto Systems | ANDERLECHT, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=635941580980291731) |
 | Junior IT Support Engineer | C508 Tarkett nv (Dendermonde) | Belgium, Dendermonde | Talent.com | [Bekijk](https://be.talent.com/view?id=626351686349759155) |
+| Team Leader - IT Support (Onsite) | Netcompany | , brussel hoofdstad, belgium, brussel ho… | Talent.com | [Bekijk](https://be.talent.com/view?id=640012863124016844) |
 | IT Support System FR/NL (h/f) | Start People Brussels GT | FOREST, Brussels Hoofdstedelijk Gewest,… | Talent.com | [Bekijk](https://be.talent.com/view?id=628159788443765548) |
 | IT Technical Consultant | IT-Planet | saint gilles, brussels capital, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=635290187527686992) |
+| IT Support Specialist (Productie) | LGA IT | gent, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=640012875999088332) |
 | BUSINESS & APPLICATIONS IT SUPPORT (Evere) | Asap.be | Bruxelles (1140), BE | Talent.com | [Bekijk](https://be.talent.com/view?id=635290188091886416) |
 | IT support medewerker- Wetteren | Adecco Belgium | WETTEREN, BE | Talent.com | [Bekijk](https://be.talent.com/view?id=639810758706397478) |
 | IT Support Engineer NL-FR | Easi SA | NIVELLES, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=634726927849164187) |
-| IT Support Technician (On-Call) Belgium | ITProposal | Brussels, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=629476538438589940) |
-| It Infrastructure Engineer | LGA IT | oudenaarde, kingdom of belgium, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=637616828604811072) |
+| IT Support Engineer (Junior) | Inspired Education Group | Brussels, BE | Talent.com | [Bekijk](https://be.talent.com/view?id=627936652287017985) |
 
 ## Kristel
 
-**Bijgewerkt:** 03/10/2026 om 06:08 — **10 vacatures**
+**Bijgewerkt:** 04/10/2026 om 06:09 — **11 vacatures**
 
 | Titel | Bedrijf | Locatie | Bron | Link |
 |---|---|---|---|---|
 | HR Business Partner Benelux | Alfa Laval | Brussel, Brussels Hoofdstedelijk Gewest,… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/hr-business-partner-benelux-at-alfa-laval-4474755913) |
+| Senior Vice President, People Strategy & Advisory | BNY | Brussel, Brussels Hoofdstedelijk Gewest,… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/senior-vice-president-people-strategy-advisory-at-bny-4466354906) |
 | People & Culture Manager | Bolt Energie | Brussel, Brussels Hoofdstedelijk Gewest,… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/people-culture-manager-at-bolt-4474767419) |
 | HR-manager | CASH by Batopin | Brussels Hoofdstedelijk Gewest, België W… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/hr-manager-at-cash-by-batopin-4473756012) |
 | HR Director Ad Interim - Cultuur & Transformatie | Stroom Recruitment | gent, gent, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=637293036555470198) |
