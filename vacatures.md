@@ -1,6 +1,6 @@
 # Vacatures overzicht
 
-_Laatst gegenereerd: 10/10/2026 om 08:05_
+_Laatst gegenereerd: 11/10/2026 om 08:00_
 
 
 ## Nils
