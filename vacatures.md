@@ -1,11 +1,11 @@
 # Vacatures overzicht
 
-_Laatst gegenereerd: 24/10/2026 om 08:06_
+_Laatst gegenereerd: 25/10/2026 om 08:06_
 
 
 ## Nils
 
-**Bijgewerkt:** 24/10/2026 om 06:06 — **36 vacatures**
+**Bijgewerkt:** 25/10/2026 om 07:06 — **29 vacatures**
 
 | Titel | Bedrijf | Locatie | Bron | Link |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ _Laatst gegenereerd: 24/10/2026 om 08:06_
 | Junior Field Service Engineer | Madison Recruitment | Gent, Vlaanderen, België Wees een van de… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/junior-field-service-engineer-at-madison-recruitment-4482471750) |
 | Field Service Technician | Flowserve Corporation | Groot-Bijgaarden, Vlaanderen, België Act… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/field-service-technician-at-flowserve-corporation-4454512441) |
 | IT Helpdesk Support – SAP S/4HANA | Cronos Europa | Brussel, Brussels Hoofdstedelijk Gewest,… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/it-helpdesk-support-%E2%80%93-sap-s-4hana-at-cronos-europa-4481622327) |
-| Information Technology Help Desk Support | Conway - The Convenience Compa… | Temse, Vlaanderen, België 3 dagen gelede… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/information-technology-help-desk-support-at-conway-the-convenience-company-belgi%C3%AB-n-v-4478684921) |
+| Information Technology Help Desk Support | Conway - The Convenience Compa… | Temse, Vlaanderen, België 4 dagen gelede… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/information-technology-help-desk-support-at-conway-the-convenience-company-belgi%C3%AB-n-v-4478684921) |
 | IT Support Engineer – Dutch Speaking | Us3 Consulting | Brussels Hoofdstedelijk Gewest, België W… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/it-support-engineer-%E2%80%93-dutch-speaking-at-us3-consulting-4482456351) |
 | Onsite Support Engineer L1 | Altherias | Gent, Vlaanderen, België Wees een van de… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/onsite-support-engineer-l1-at-altherias-4482711199) |
 | IT Support Engineer | Tractebel | Brussel, Brussels Hoofdstedelijk Gewest,… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/it-support-engineer-at-tractebel-4482876061) |
@@ -26,29 +26,22 @@ _Laatst gegenereerd: 24/10/2026 om 08:06_
 | Senior Onsite Support Engineer L2/L3 | Altherias | Gent, Vlaanderen, België Wees een van de… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/senior-onsite-support-engineer-l2-l3-at-altherias-4482470492) |
 | Support Engineer | Sander | Zaventem, Vlaanderen, België Wees een va… | LinkedIn | [Bekijk](https://be.linkedin.com/jobs/view/support-engineer-at-sander-4481915588) |
 | SAP FSM Consultant - Drive Field Service Transformation | SQLI | zaventem, vlaams brabant, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=642819256336517353) |
-| Field Service Engineer | Michael Page | Bruxelles, BE | Talent.com | [Bekijk](https://be.talent.com/view?id=637868103617283877) |
 | Senior Field Service Engineer - Benelux | Sungrow - EMEA | Brussels, Anderlecht, BE | Talent.com | [Bekijk](https://be.talent.com/view?id=616127407106107241) |
-| IT Service Delivery Engineer | Speos Belgium NV | Anderlecht, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=590980679340271790) |
 | Field Service Engineer | Getinge Belgium NV | Groot-Bijgaarden, BE | Talent.com | [Bekijk](https://be.talent.com/view?id=534435656562837478) |
 | Field Service Engineer | OSI Systems, Inc | Brussels, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=642440990487741768) |
 | Service Engineer | Start People Office Leuven | BRUSSEL, Brussels Hoofdstedelijk Gewest,… | Talent.com | [Bekijk](https://be.talent.com/view?id=630113558142913802) |
-| Service engineer | Actemium | GENT, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=641375543456694804) |
-| Field Service Technician - Middenspanning (m/v/x) | SIEMENS | HUIZINGEN, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=642239830843264533) |
+| Service engineer Postpress | Heidelberg Benelux Bvba | evere, bruxelles capitale, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=640523761391242596) |
+| ICT Project Engineer | Dstny | brussel, brussel hoofdstad, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=642819231106730217) |
 | Data Privacy Consultant – ICT Risk | Capco | , brussel hoofdstad, belgium, brussel ho… | Talent.com | [Bekijk](https://be.talent.com/view?id=642819205981280819) |
-| ICT Project Engineer | Dstny | zaventem, vlaams brabant, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=642819210671823411) |
 | Freelance IT Support | Select | Asse | Talent.com | [Bekijk](https://be.talent.com/view?id=602847396211722940) |
 | Team Leader - IT Support (Onsite) | Netcompany SEE & BELUX | Brussels, Brussels, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=642678691212690865) |
 | IT Service Desk Support Engineer | EngiFlex | Brussels, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=642670071887111697) |
-| IT Support Technician (On-Call) Belgium | ITProposal | Brussels, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=629476538438589940) |
-| Ingénieur IT Support experimenté | Select | Brussels, BE | Talent.com | [Bekijk](https://be.talent.com/view?id=579265458473803825) |
-| Senior SharePoint Engineer — Multinational IT Support | NCIM | brussel, brussel hoofdstad, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=641372232103497612) |
 | Service Delivery Manager - Lead IT Support & SLA Excellence | Cronos International | , brussel hoofdstad, belgium, brussel ho… | Talent.com | [Bekijk](https://be.talent.com/view?id=642819199520747496) |
-| IT Support Specialist | Unique Belgium | GROOT-BIJGAARDEN, Vlaams-Brabant, BE | Talent.com | [Bekijk](https://be.talent.com/view?id=640238601626783471) |
 | Team Leader - IT Support (Onsite) | Netcompany Group A/S | , brussel hoofdstad, belgium, brussel ho… | Talent.com | [Bekijk](https://be.talent.com/view?id=642819190450106344) |
 
 ## Kristel
 
-**Bijgewerkt:** 24/10/2026 om 06:06 — **15 vacatures**
+**Bijgewerkt:** 25/10/2026 om 07:06 — **11 vacatures**
 
 | Titel | Bedrijf | Locatie | Bron | Link |
 |---|---|---|---|---|
@@ -61,9 +54,5 @@ _Laatst gegenereerd: 24/10/2026 om 08:06_
 | HR Manager | Michael Page (Belgium) | , brussel hoofdstad, belgium, brussel ho… | Talent.com | [Bekijk](https://be.talent.com/view?id=641973955019868175) |
 | HR Director | Robert Half Belgium | Brussels, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=589989405251079603) |
 | HR Manager | Michael Page | , brussel hoofdstad, belgium, brussel ho… | Talent.com | [Bekijk](https://be.talent.com/view?id=642094424309171370) |
-| Head of Talent Acquisition | HUDSON | gent, gent, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=641863046394284047) |
 | Head of HR - Strategic People Leader (Brussels/Remote) | Bruegel | , brussel hoofdstad, belgium, brussel ho… | Talent.com | [Bekijk](https://be.talent.com/view?id=641977941958920242) |
 | Head of HR — Strategy, Talent & Multisite Leadership | Enaos | watermaal bosvoorde, brussel hoofdstad,… | Talent.com | [Bekijk](https://be.talent.com/view?id=641370933324022699) |
-| Remote Senior Health Operations Lead - People & Quality | AXA Partners | brussel, brussel hoofdstad, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=641375535148106260) |
-| Director, People Strategy & Advisory | BNY | brussel, brussel hoofdstad, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=638820172839913107) |
-| M365 Team Lead & People Growth Coach | Sirus | merelbeke, gent, Belgium | Talent.com | [Bekijk](https://be.talent.com/view?id=641977749476803754) |
